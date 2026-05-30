@@ -69,6 +69,7 @@ a {
   align-items: center;
   margin-bottom: 20px;
   padding-left: 0;
+  margin-left:0px;
 }
 .people__slide .swiper-slide .people__card .people__social li {
   padding: 0 5px;
